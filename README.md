@@ -10,3 +10,6 @@ The dataset consists of different attributes such as town, adress, property and 
 
 ## Birds vs. Drones
 This project is an image-classification project using ANN and CNN in order to see which classification model has the highest precision, when detecting a drone compared to a bird.
+
+## NFL data 
+This project is related to importing and working with the NFLReadpy library, which contains relevant data for NFL teams from the last 10+ years.
